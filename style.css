@@ -121,7 +121,7 @@ h2 {
 /* main */
 
 #main-container {
-  padding-top: 130px;
+  padding-top: 100px;
   min-height: calc(100vh - 70px);
 }
 
@@ -146,23 +146,23 @@ h2 {
 }
 
 .work:nth-child(even) {
-  margin-right: 40px;
+  margin-right: 20px;
 }
 
 .work img {
-  width: 100%;
+  width: 50%;
   border: 0 none;
   opacity: 0.8;
 }
 
 .work h3 {
   position: absolute;
-  bottom: 20px;
-  width: 100%;
+  bottom: 5px;
+  width: 50%;
   padding: 15px;
   margin-bottom: 0;
-  font-weight: 300;
-  line-height: 30px;
+  font-weight: 100;
+  line-height: 10px;
   color: #ffffff;
   text-align: center;
   background: #4aaaa5;
@@ -171,7 +171,7 @@ h2 {
 
 .auth-image {
   float: left;
-  width: 200px;
+  width: 250px;
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
